@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif](https://imgur.com/a/uJYHl2o)" width="200"/>
+  <img src="https://imgur.com/a/uJYHl2o" width="200"/>
 </div>
 
 ### Hi there 👋 I am Olivia
