@@ -1,7 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif](https://imgur.com/a/uJYHl2o)" width="200"/>
+</div>
 
+### Hi there 👋 I am Olivia
+<h3 align="center">Developer Advocate @ Amazon</h3>
 <!--
 **sungolivia/sungolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on [Amazon Appstore](https://developer.amazon.com/apps-and-games)
+
+- 📫 How to reach me? Check **https://yoolivia.com**
 
 Here are some ideas to get you started:
 
