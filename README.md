@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/ARrs16n4l97wC8YWS6/giphy.gif" width="200"/>
+  <img src='./misc/katsutomo.gif'> width="200" />
 </div>
 
 ### Hi there 👋 I am Olivia
